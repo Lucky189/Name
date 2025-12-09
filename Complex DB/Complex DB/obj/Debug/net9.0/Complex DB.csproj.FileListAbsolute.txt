@@ -1,0 +1,8 @@
+D:\Загрузки\Complex DB\Complex DB\obj\Debug\net9.0\Complex DB.csproj.AssemblyReference.cache
+D:\Загрузки\Complex DB\Complex DB\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Загрузки\Complex DB\Complex DB\obj\Debug\net9.0\Complex DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Complex DB\Complex DB\obj\Debug\net9.0\Complex DB.AssemblyInfoInputs.cache
+D:\Загрузки\Complex DB\Complex DB\obj\Debug\net9.0\Complex DB.AssemblyInfo.cs
+D:\Загрузки\Complex DB\Complex DB\obj\Debug\net9.0\Complex DB.csproj.CoreCompileInputs.cache
+D:\Загрузки\Complex DB\Complex DB\obj\Debug\net9.0\Complex DB.MvcApplicationPartsAssemblyInfo.cs
+D:\Загрузки\Complex DB\Complex DB\obj\Debug\net9.0\Complex DB.MvcApplicationPartsAssemblyInfo.cache
