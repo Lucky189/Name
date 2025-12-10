@@ -1,0 +1,35 @@
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\appsettings.Development.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\appsettings.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\ASP.NET Core Web AP.staticwebassets.endpoints.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\ASP.NET Core Web AP.exe
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\ASP.NET Core Web AP.deps.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\ASP.NET Core Web AP.runtimeconfig.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\ASP.NET Core Web AP.dll
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\ASP.NET Core Web AP.pdb
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.csproj.AssemblyReference.cache
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.AssemblyInfoInputs.cache
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.AssemblyInfo.cs
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.csproj.CoreCompileInputs.cache
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.MvcApplicationPartsAssemblyInfo.cs
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.MvcApplicationPartsAssemblyInfo.cache
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\scopedcss\bundle\ASP.NET Core Web AP.styles.css
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\staticwebassets.build.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\staticwebassets.development.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET .91BE4BFB.Up2Date
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.dll
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\refint\ASP.NET Core Web AP.dll
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.pdb
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ASP.NET Core Web AP.genruntimeconfig.cache
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\obj\Debug\net9.0\ref\ASP.NET Core Web AP.dll
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Загрузки\ASP.NET Core Web AP\ASP.NET Core Web AP\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
