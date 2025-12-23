@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hz/pxVjodKM=",
+  "success": true,
+  "projectFilePath": "D:\\Загрузки\\LiveTasksPt3\\LiveTasksPt3\\LiveTasksPt3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}

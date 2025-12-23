@@ -1,0 +1,17 @@
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTasksPt3.csproj.AssemblyReference.cache
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTasksPt3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTasksPt3.AssemblyInfoInputs.cache
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTasksPt3.AssemblyInfo.cs
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTasksPt3.csproj.CoreCompileInputs.cache
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\bin\Debug\net9.0\LiveTasksPt3.exe
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\bin\Debug\net9.0\LiveTasksPt3.deps.json
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\bin\Debug\net9.0\LiveTasksPt3.runtimeconfig.json
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\bin\Debug\net9.0\LiveTasksPt3.dll
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\bin\Debug\net9.0\LiveTasksPt3.pdb
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\bin\Debug\net9.0\HtmlAgilityPack.dll
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTask.ACDA7F8F.Up2Date
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTasksPt3.dll
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\refint\LiveTasksPt3.dll
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTasksPt3.pdb
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\LiveTasksPt3.genruntimeconfig.cache
+D:\Загрузки\LiveTasksPt3\LiveTasksPt3\obj\Debug\net9.0\ref\LiveTasksPt3.dll
