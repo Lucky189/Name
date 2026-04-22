@@ -1,0 +1,65 @@
+@page "/demo"
+@rendermode InteractiveServer
+@implements IDisposable
+@using BlazorApp2.Components
+@inject IJSRuntime JS
+
+<CascadingValue Value="themeColor">
+    <h3>Blazor Demo</h3>
+
+    <p>Two-way binding:</p>
+    <input class="form-control" @bind="userName" />
+
+    <p class="mt-2">Ви ввели: @userName</p>
+
+    <hr />
+
+    <ThemeViewer />
+
+    <button class="btn btn-primary mt-3" @onclick="CallJsAlert">
+        Викликати JS з C#
+    </button>
+
+    <button class="btn btn-success mt-3 ms-2" @onclick="RegisterDotNetObject">
+        Дозволити JS викликати C#
+    </button>
+
+    <button class="btn btn-warning mt-3 ms-2" onclick="callDotNetFromJs()">
+        Викликати C# з JS
+    </button>
+
+    <p class="mt-3 text-danger">@messageFromJs</p>
+</CascadingValue>
+
+@code {
+    private string userName = "Іван";
+    private string themeColor = "blue";
+    private string messageFromJs = "";
+
+    private DotNetObjectReference<Demo>? objRef;
+
+    private async Task CallJsAlert()
+    {
+        await JS.InvokeVoidAsync("showMessage", $"Привіт, {userName}!");
+    }
+
+    private async Task RegisterDotNetObject()
+    {
+        objRef?.Dispose();
+        objRef = DotNetObjectReference.Create(this);
+
+        await JS.InvokeVoidAsync("registerDotNetHelper", objRef);
+    }
+
+    [JSInvokable]
+    public void ReceiveMessage(string text)
+    {
+        messageFromJs = text;
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        objRef?.Dispose();
+    }
+}

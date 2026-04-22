@@ -1,0 +1,11 @@
+<div class="mt-3">
+    <p>Значення з CascadingValue:</p>
+    <p style="color:@ThemeColor">
+        Поточний колір теми: @ThemeColor
+    </p>
+</div>
+
+@code {
+    [CascadingParameter]
+    public string? ThemeColor { get; set; }
+}
