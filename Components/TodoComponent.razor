@@ -1,0 +1,66 @@
+@page "/todo"
+@rendermode InteractiveServer
+
+@inject Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage.ProtectedLocalStorage localStorage
+
+<h3>TODO list</h3>
+
+<div class="mb-3">
+    <input class="form-control"
+           @bind="newTask"
+           placeholder="Введіть нове завдання" />
+
+    <button class="btn btn-primary mt-2" @onclick="AddTask">
+        Додати
+    </button>
+</div>
+
+<ul class="list-group">
+    @foreach (var task in tasks)
+    {
+        <li class="list-group-item">@task</li>
+    }
+</ul>
+
+@code {
+    private string newTask = "";
+    private const string StorageKey = "todo-items";
+    private List<string> tasks = new();
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            var saved = await localStorage.GetAsync<List<string>>(StorageKey);
+
+            if (saved.Success && saved.Value is not null)
+            {
+                tasks = saved.Value;
+            }
+            else
+            {
+                tasks = new()
+                {
+                    "Купити продукти",
+                    "Закінчити домашнє завдання",
+                    "Подзвонити другу"
+                };
+
+                await localStorage.SetAsync(StorageKey, tasks);
+            }
+
+            StateHasChanged();
+        }
+    }
+
+    private async Task AddTask()
+    {
+        if (!string.IsNullOrWhiteSpace(newTask))
+        {
+            tasks.Add(newTask.Trim());
+            newTask = "";
+
+            await localStorage.SetAsync(StorageKey, tasks);
+        }
+    }
+}
