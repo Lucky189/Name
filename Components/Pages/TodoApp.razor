@@ -1,0 +1,132 @@
+@page "/todoapp"
+@rendermode InteractiveServer
+
+@using System.Text.Json
+
+<h3>TODO App</h3>
+
+<!-- Створення списку -->
+<input @bind="newListName" placeholder="Назва списку" />
+<button @onclick="CreateList">Створити список</button>
+
+<hr />
+
+<!-- Вибір списку -->
+<select @bind="selectedListIndex">
+    @for (int i = 0; i < lists.Count; i++)
+    {
+        <option value="@i">@lists[i].Name</option>
+    }
+</select>
+
+@if (CurrentList != null)
+{
+    <h4>@CurrentList.Name</h4>
+
+    <!-- Додавання задачі -->
+    <input @bind="newTask" placeholder="Нова задача" />
+    <button @onclick="AddTask">Додати</button>
+
+    <br /><br />
+
+    <!-- Фільтр -->
+    <label>
+        <input type="checkbox" @bind="hideCompleted" />
+        Сховати виконані
+    </label>
+
+    <label class="ms-3">
+        <input type="checkbox" @bind="hideActive" />
+        Сховати невиконані
+    </label>
+
+    <ul>
+        @foreach (var item in FilteredItems)
+        {
+            <li>
+                <input type="checkbox" @bind="item.IsDone" />
+                @item.Text
+            </li>
+        }
+    </ul>
+}
+
+<hr />
+
+<!-- Експорт -->
+<button @onclick="Export">Експорт JSON</button>
+
+<!-- Імпорт -->
+<br /><br />
+<textarea @bind="importJson" placeholder="Встав JSON тут"></textarea>
+<br />
+<button @onclick="Import">Імпорт</button>
+
+<pre>@exportJson</pre>
+
+@code {
+    private List<TodoList> lists = new();
+    private int selectedListIndex = 0;
+
+    private string newListName = "";
+    private string newTask = "";
+
+    private bool hideCompleted = false;
+    private bool hideActive = false;
+
+    private string exportJson = "";
+    private string importJson = "";
+
+    private TodoList? CurrentList =>
+        lists.Count > 0 && selectedListIndex < lists.Count
+            ? lists[selectedListIndex]
+            : null;
+
+    private void CreateList()
+    {
+        if (!string.IsNullOrWhiteSpace(newListName))
+        {
+            lists.Add(new TodoList { Name = newListName });
+            newListName = "";
+        }
+    }
+
+    private void AddTask()
+    {
+        if (CurrentList != null && !string.IsNullOrWhiteSpace(newTask))
+        {
+            CurrentList.Items.Add(new TodoItem { Text = newTask });
+            newTask = "";
+        }
+    }
+
+    private IEnumerable<TodoItem> FilteredItems =>
+        CurrentList?.Items.Where(i =>
+            (!hideCompleted || !i.IsDone) &&
+            (!hideActive || i.IsDone)
+        ) ?? Enumerable.Empty<TodoItem>();
+
+    private void Export()
+    {
+        exportJson = JsonSerializer.Serialize(lists, new JsonSerializerOptions
+        {
+            WriteIndented = true
+        });
+    }
+
+    private void Import()
+    {
+        try
+        {
+            var data = JsonSerializer.Deserialize<List<TodoList>>(importJson);
+            if (data != null)
+            {
+                lists = data;
+            }
+        }
+        catch
+        {
+            exportJson = "❌ Помилка імпорту";
+        }
+    }
+}
