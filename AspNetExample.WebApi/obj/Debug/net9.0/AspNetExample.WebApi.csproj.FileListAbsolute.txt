@@ -1,0 +1,7 @@
+D:\Загрузки\Unit Tests\AspNetExample.WebApi\obj\Debug\net9.0\AspNetExample.WebApi.csproj.AssemblyReference.cache
+D:\Загрузки\Unit Tests\AspNetExample.WebApi\obj\Debug\net9.0\AspNetExample.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Unit Tests\AspNetExample.WebApi\obj\Debug\net9.0\AspNetExample.WebApi.AssemblyInfoInputs.cache
+D:\Загрузки\Unit Tests\AspNetExample.WebApi\obj\Debug\net9.0\AspNetExample.WebApi.AssemblyInfo.cs
+D:\Загрузки\Unit Tests\AspNetExample.WebApi\obj\Debug\net9.0\AspNetExample.WebApi.csproj.CoreCompileInputs.cache
+D:\Загрузки\Unit Tests\AspNetExample.WebApi\obj\Debug\net9.0\AspNetExample.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Загрузки\Unit Tests\AspNetExample.WebApi\obj\Debug\net9.0\AspNetExample.WebApi.sourcelink.json

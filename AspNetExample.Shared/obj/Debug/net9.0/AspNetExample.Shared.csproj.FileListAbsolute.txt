@@ -1,0 +1,13 @@
+D:\Загрузки\Unit Tests\AspNetExample.Shared\bin\Debug\net9.0\AspNetExample.Shared.deps.json
+D:\Загрузки\Unit Tests\AspNetExample.Shared\bin\Debug\net9.0\AspNetExample.Shared.dll
+D:\Загрузки\Unit Tests\AspNetExample.Shared\bin\Debug\net9.0\AspNetExample.Shared.pdb
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\AspNetExample.Shared.csproj.AssemblyReference.cache
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\AspNetExample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\AspNetExample.Shared.AssemblyInfoInputs.cache
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\AspNetExample.Shared.AssemblyInfo.cs
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\AspNetExample.Shared.csproj.CoreCompileInputs.cache
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\AspNetExample.Shared.sourcelink.json
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\AspNetExample.Shared.dll
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\refint\AspNetExample.Shared.dll
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\AspNetExample.Shared.pdb
+D:\Загрузки\Unit Tests\AspNetExample.Shared\obj\Debug\net9.0\ref\AspNetExample.Shared.dll

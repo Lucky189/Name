@@ -1,0 +1,6 @@
+D:\Загрузки\Unit Tests\AspNetExample.Service\obj\Debug\net9.0\AspNetExample.Service.csproj.AssemblyReference.cache
+D:\Загрузки\Unit Tests\AspNetExample.Service\obj\Debug\net9.0\AspNetExample.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Unit Tests\AspNetExample.Service\obj\Debug\net9.0\AspNetExample.Service.AssemblyInfoInputs.cache
+D:\Загрузки\Unit Tests\AspNetExample.Service\obj\Debug\net9.0\AspNetExample.Service.AssemblyInfo.cs
+D:\Загрузки\Unit Tests\AspNetExample.Service\obj\Debug\net9.0\AspNetExample.Service.csproj.CoreCompileInputs.cache
+D:\Загрузки\Unit Tests\AspNetExample.Service\obj\Debug\net9.0\AspNetExample.Service.sourcelink.json
