@@ -1,0 +1,17 @@
+D:\Загрузки\SportsApp.DAL\bin\Debug\net8.0\SportsApp.DAL.deps.json
+D:\Загрузки\SportsApp.DAL\bin\Debug\net8.0\SportsApp.DAL.runtimeconfig.json
+D:\Загрузки\SportsApp.DAL\bin\Debug\net8.0\SportsApp.DAL.dll
+D:\Загрузки\SportsApp.DAL\bin\Debug\net8.0\SportsApp.DAL.pdb
+D:\Загрузки\SportsApp.DAL\bin\Debug\net8.0\SportsApp.Domain.dll
+D:\Загрузки\SportsApp.DAL\bin\Debug\net8.0\SportsApp.Domain.pdb
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsApp.DAL.csproj.AssemblyReference.cache
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsApp.DAL.AssemblyInfoInputs.cache
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsApp.DAL.AssemblyInfo.cs
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsApp.DAL.csproj.CoreCompileInputs.cache
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsAp.93EADF0D.Up2Date
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsApp.DAL.dll
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\refint\SportsApp.DAL.dll
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsApp.DAL.pdb
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\SportsApp.DAL.genruntimeconfig.cache
+D:\Загрузки\SportsApp.DAL\obj\Debug\net8.0\ref\SportsApp.DAL.dll

@@ -1,0 +1,17 @@
+D:\Загрузки\SportsApp.BLL\bin\Debug\net8.0\SportsApp.BLL.deps.json
+D:\Загрузки\SportsApp.BLL\bin\Debug\net8.0\SportsApp.BLL.dll
+D:\Загрузки\SportsApp.BLL\bin\Debug\net8.0\SportsApp.BLL.pdb
+D:\Загрузки\SportsApp.BLL\bin\Debug\net8.0\SportsApp.DAL.dll
+D:\Загрузки\SportsApp.BLL\bin\Debug\net8.0\SportsApp.Domain.dll
+D:\Загрузки\SportsApp.BLL\bin\Debug\net8.0\SportsApp.DAL.pdb
+D:\Загрузки\SportsApp.BLL\bin\Debug\net8.0\SportsApp.Domain.pdb
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\SportsApp.BLL.csproj.AssemblyReference.cache
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\SportsApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\SportsApp.BLL.AssemblyInfoInputs.cache
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\SportsApp.BLL.AssemblyInfo.cs
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\SportsApp.BLL.csproj.CoreCompileInputs.cache
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\SportsAp.7853CF7B.Up2Date
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\SportsApp.BLL.dll
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\refint\SportsApp.BLL.dll
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\SportsApp.BLL.pdb
+D:\Загрузки\SportsApp.BLL\obj\Debug\net8.0\ref\SportsApp.BLL.dll

@@ -1,0 +1,11 @@
+D:\Загрузки\SportsApp.Domain\bin\Debug\net8.0\SportsApp.Domain.deps.json
+D:\Загрузки\SportsApp.Domain\bin\Debug\net8.0\SportsApp.Domain.dll
+D:\Загрузки\SportsApp.Domain\bin\Debug\net8.0\SportsApp.Domain.pdb
+D:\Загрузки\SportsApp.Domain\obj\Debug\net8.0\SportsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\SportsApp.Domain\obj\Debug\net8.0\SportsApp.Domain.AssemblyInfoInputs.cache
+D:\Загрузки\SportsApp.Domain\obj\Debug\net8.0\SportsApp.Domain.AssemblyInfo.cs
+D:\Загрузки\SportsApp.Domain\obj\Debug\net8.0\SportsApp.Domain.csproj.CoreCompileInputs.cache
+D:\Загрузки\SportsApp.Domain\obj\Debug\net8.0\SportsApp.Domain.dll
+D:\Загрузки\SportsApp.Domain\obj\Debug\net8.0\refint\SportsApp.Domain.dll
+D:\Загрузки\SportsApp.Domain\obj\Debug\net8.0\SportsApp.Domain.pdb
+D:\Загрузки\SportsApp.Domain\obj\Debug\net8.0\ref\SportsApp.Domain.dll
