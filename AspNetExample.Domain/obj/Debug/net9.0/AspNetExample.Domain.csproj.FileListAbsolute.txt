@@ -1,0 +1,16 @@
+D:\Загрузки\Unit Tests\AspNetExample.Domain\bin\Debug\net9.0\AspNetExample.Domain.deps.json
+D:\Загрузки\Unit Tests\AspNetExample.Domain\bin\Debug\net9.0\AspNetExample.Domain.dll
+D:\Загрузки\Unit Tests\AspNetExample.Domain\bin\Debug\net9.0\AspNetExample.Domain.pdb
+D:\Загрузки\Unit Tests\AspNetExample.Domain\bin\Debug\net9.0\AspNetExample.Shared.dll
+D:\Загрузки\Unit Tests\AspNetExample.Domain\bin\Debug\net9.0\AspNetExample.Shared.pdb
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetExample.Domain.csproj.AssemblyReference.cache
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetExample.Domain.AssemblyInfoInputs.cache
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetExample.Domain.AssemblyInfo.cs
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetExample.Domain.csproj.CoreCompileInputs.cache
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetExample.Domain.sourcelink.json
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetEx.75AF0CDC.Up2Date
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetExample.Domain.dll
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\refint\AspNetExample.Domain.dll
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\AspNetExample.Domain.pdb
+D:\Загрузки\Unit Tests\AspNetExample.Domain\obj\Debug\net9.0\ref\AspNetExample.Domain.dll
